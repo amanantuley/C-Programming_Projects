@@ -129,7 +129,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Connect with me through the following channels:
 
 - **Developer**: Aman Antuley  
-- **Email**: [amanantuley@example.com](mailto:amanantuley3794@example.com)  
+- **Email**: [amanantuley3794@gmail.com](mailto:amanantuley3794@gmail.com)  
 - **GitHub**: [https://github.com/amanantuley](https://github.com/amanantuley)  
 - **LinkedIn**: [Aman Antuley](https://www.linkedin.com/in/aman-antuley-8974ab26a/)  
 - **Twitter**: [@amanantuley](https://twitter.com/amanantuley)  
