@@ -1,11 +1,10 @@
+# C Programming Projects Repository: Railway Reservation, Quiz Game, Number Guessing Game, Menu-Driven Calculator, & Data Structures – Plus Algorithms 💳🎮
 
-# C Programming Projects Repository: ATM Machine Simulator & Quiz Game 💳🎮  
-
-This repository contains two interesting C programming projects: an **ATM Machine Simulator** and a **Quiz Game**. These projects are designed to demonstrate my understanding of C concepts such as control structures, functions, file handling, and array manipulation.
+Welcome to my **C Programming Projects Repository**, featuring exciting projects like a **Railway Reservation System**, a **Quiz Game**, a **Number Guessing Game**, a **Menu-Driven Calculator**, and implementations of key **Data Structures and Algorithms**. This repository is a testament to my skills in C programming, covering fundamental to advanced concepts, including control structures, functions, file handling, and data structure manipulation.
 
 ---
 
-## 📋 **Table of Contents**  
+## 🗋 **Table of Contents**
 
 1. [About the Repository](#about-the-repository)  
 2. [Projects Included](#projects-included)  
@@ -17,88 +16,123 @@ This repository contains two interesting C programming projects: an **ATM Machin
 
 ---
 
-## 📝 **About the Repository**  
+## 🖋 **About the Repository**
 
-This repository includes two projects built using the C programming language:  
-- **ATM Machine Simulator**: A simulation of an ATM machine that allows users to check balance, withdraw funds, and deposit money.  
-- **Quiz Game**: An interactive command-line quiz game that asks a set of questions and keeps track of the user's score.
+This repository showcases projects built using the **C programming language**, highlighting my expertise in:
+- Core programming concepts like loops, conditional statements, functions, and arrays.
+- Advanced topics such as **file handling**, **dynamic memory allocation**, and **data structures**.
 
-These projects highlight core C programming concepts like loops, conditional statements, functions, and arrays.  
+### Included Projects:
+- **Railway Reservation System**: A system for booking, canceling, and viewing train reservations.
+- **Quiz Game**: A command-line game with multiple-choice questions and scoring.
+- **Number Guessing Game**: A fun program where the user guesses a randomly generated number.
+- **Menu-Driven Calculator**: A calculator offering arithmetic and advanced operations through a menu interface.
+- **Data Structures & Algorithms**: Implementations of common data structures like stacks, queues, linked lists, and essential algorithms.
 
 ---
 
-## 📂 **Projects Included**  
+## 🗂 **Projects Included**
 
-### 1. **ATM Machine Simulator**  
-- A simple ATM simulation that lets users log in, check their balance, withdraw money, and deposit funds.  
-- The ATM uses basic file handling to simulate account data storage.  
-- Key features:  
-  - Account login using PIN.  
-  - Balance inquiry, deposit, and withdrawal functions.  
-  - Basic security features like PIN validation.  
+### 1. **Railway Reservation System**  
+A comprehensive train reservation program that includes:
+- Booking tickets for passengers.
+- Canceling existing reservations.
+- Viewing train schedules and booked tickets.
+- Use of **file handling** to manage reservation data.
 
 ### 2. **Quiz Game**  
-- An interactive multiple-choice quiz game that asks questions and displays correct answers based on the user’s responses.  
-- The game keeps track of the user's score and provides feedback after each question.  
-- Key features:  
-  - Randomized questions and answers.  
-  - Scoring system.  
-  - Feedback and result display.  
+An interactive game that:
+- Asks randomized multiple-choice questions.
+- Tracks user’s score and provides feedback.
+- Implements a clean and efficient scoring system.
+
+### 3. **Number Guessing Game**  
+A simple yet engaging game that:
+- Challenges the user to guess a randomly generated number within a range.
+- Provides feedback on each guess (higher or lower).
+- Tracks the number of attempts.
+
+### 4. **Menu-Driven Calculator**  
+An interactive calculator offering:
+- Basic arithmetic operations (addition, subtraction, multiplication, division).
+- Advanced functions like factorials and power calculations.
+- A user-friendly menu-driven interface.
+
+### 5. **Data Structures & Algorithms**  
+Core implementations of:
+- **Data Structures**: Arrays, Stacks, Queues, Linked Lists, Trees, and Graphs.
+- **Algorithms**: Sorting (Bubble, Merge, Quick), Searching (Binary, Linear), and recursion-based solutions.
 
 ---
 
-## 💻 **Technologies Used**  
+## 💻 **Technologies Used**
 
-- **C Programming Language**: Main language used for both projects.  
-- **GCC Compiler**: For compiling and running the C programs.  
-- **File Handling**: Used in the ATM project for simulating account data storage.  
-
----
-
-## 🛠 **Setup and Installation**  
-
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-username/c-atm-quiz.git  
-   ```  
-
-2. Navigate to the project folder:  
-   ```bash  
-   cd c-atm-quiz  
-   ```  
-
-3. Compile the desired C file:  
-   ```bash  
-   gcc <filename>.c -o <output-name>  
-   ```  
-
-4. Run the compiled program:  
-   ```bash  
-   ./<output-name>  
-   ```  
+- **C Programming Language**: The primary language for all projects.
+- **GCC Compiler**: For compiling and running programs.
+- **File Handling**: Employed in multiple projects for data storage and management.
+- **Dynamic Memory Allocation**: Used in advanced data structure implementations.
 
 ---
 
-## 🤝 **Contributing**  
+## 🛠 **Setup and Installation**
 
-Contributions are welcome!  
-1. Fork the repository.  
-2. Create a feature branch (`git checkout -b feature-name`).  
-3. Commit your changes (`git commit -m "Add feature-name"`).  
-4. Push to the branch (`git push origin feature-name`).  
-5. Open a Pull Request.  
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/amanantuley/c-atm-quiz-dsa.git
+   ```
+
+2. Navigate to the project folder:
+   ```bash
+   cd c-atm-quiz-dsa
+   ```
+
+3. Compile the desired C file:
+   ```bash
+   gcc <filename>.c -o <output-name>
+   ```
+
+4. Run the compiled program:
+   ```bash
+   ./<output-name>
+   ```
 
 ---
 
-## 📄 **License**  
+## 🤝 **Contributing**
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.  
+Contributions are welcome! Follow these steps to contribute:
+1. Fork the repository.
+2. Create a feature branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add feature-name"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a Pull Request.
 
 ---
 
-## 📬 **Contact**  
+## 📚 **License**
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+## 📨 **Contact**
+
+Connect with me through the following channels:
 
 - **Developer**: Aman Antuley  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
+- **Email**: [amanantuley@example.com](mailto:amanantuley@example.com)  
 - **GitHub**: [https://github.com/amanantuley](https://github.com/amanantuley)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+- **LinkedIn**: [Aman Antuley](https://www.linkedin.com/in/amanantuley)  
+- **Twitter**: [@amanantuley](https://twitter.com/amanantuley)  
+
+Let’s collaborate and create amazing projects together! 🚀
+
