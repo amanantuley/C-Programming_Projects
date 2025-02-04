@@ -1,6 +1,6 @@
-# C Programming Projects Repository: Railway Reservation, Quiz Game, Number Guessing Game, Menu-Driven Calculator, & Data Structures – Plus Algorithms 💳🎮
+# C Programming Projects Repository: Railway Reservation, Quiz Game, Number Guessing Game, & Menu-Driven Calculator 💳🎮
 
-Welcome to my **C Programming Projects Repository**, featuring exciting projects like a **Railway Reservation System**, a **Quiz Game**, a **Number Guessing Game**, a **Menu-Driven Calculator**, and implementations of key **Data Structures and Algorithms**. This repository is a testament to my skills in C programming, covering fundamental to advanced concepts, including control structures, functions, file handling, and data structure manipulation.
+Welcome to my **C Programming Projects Repository**, featuring exciting projects like a **Railway Reservation System**, a **Quiz Game**, a **Number Guessing Game**, and a **Menu-Driven Calculator**. This repository showcases my skills in C programming, covering fundamental to advanced concepts, including control structures, functions, and file handling.
 
 ---
 
@@ -20,14 +20,13 @@ Welcome to my **C Programming Projects Repository**, featuring exciting projects
 
 This repository showcases projects built using the **C programming language**, highlighting my expertise in:
 - Core programming concepts like loops, conditional statements, functions, and arrays.
-- Advanced topics such as **file handling**, **dynamic memory allocation**, and **data structures**.
+- Advanced topics such as **file handling** and **dynamic memory allocation**.
 
 ### Included Projects:
 - **Railway Reservation System**: A system for booking, canceling, and viewing train reservations.
 - **Quiz Game**: A command-line game with multiple-choice questions and scoring.
 - **Number Guessing Game**: A fun program where the user guesses a randomly generated number.
 - **Menu-Driven Calculator**: A calculator offering arithmetic and advanced operations through a menu interface.
-- **Data Structures & Algorithms**: Implementations of common data structures like stacks, queues, linked lists, and essential algorithms.
 
 ---
 
@@ -58,11 +57,6 @@ An interactive calculator offering:
 - Advanced functions like factorials and power calculations.
 - A user-friendly menu-driven interface.
 
-### 5. **Data Structures & Algorithms**  
-Core implementations of:
-- **Data Structures**: Arrays, Stacks, Queues, Linked Lists, Trees, and Graphs.
-- **Algorithms**: Sorting (Bubble, Merge, Quick), Searching (Binary, Linear), and recursion-based solutions.
-
 ---
 
 ## 💻 **Technologies Used**
@@ -70,7 +64,7 @@ Core implementations of:
 - **C Programming Language**: The primary language for all projects.
 - **GCC Compiler**: For compiling and running programs.
 - **File Handling**: Employed in multiple projects for data storage and management.
-- **Dynamic Memory Allocation**: Used in advanced data structure implementations.
+- **Dynamic Memory Allocation**: Used where applicable for optimized memory usage.
 
 ---
 
@@ -78,12 +72,12 @@ Core implementations of:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amanantuley/c-atm-quiz-dsa.git
+   git clone https://github.com/amanantuley/c-projects.git
    ```
 
 2. Navigate to the project folder:
    ```bash
-   cd c-atm-quiz-dsa
+   cd c-projects
    ```
 
 3. Compile the desired C file:
